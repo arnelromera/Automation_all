@@ -43,7 +43,7 @@ public class liverLogin {
 				data[i][j] = format.formatCellValue(cell);
 			}
 		}
-		return data;asdfasdf
+		return data;
 	}
 
 
