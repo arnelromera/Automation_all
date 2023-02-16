@@ -14,7 +14,6 @@ INDEX VERSION 1.131+C:\Users\fdcar\eclipse-workspace\.metadata\.plugins\org.ecli
 1404195909.index
 4159749729.index
 3179089148.index
-3880234512.index
 3942361724.index
 4062918296.index
 2371024086.index
