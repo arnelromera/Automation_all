@@ -11371,3 +11371,20 @@ org.eclipse.core.runtime.CoreException: Launch configuration testSample referenc
 2023-02-16 17:38:41,934 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2023-02-16 17:38:41,934 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Automation\Automation_all\excelDataProvider1\src\main\resources
 2023-02-16 17:38:41,938 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-16 17:38:41,939 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Automation\Automation_all\excelDataProvider1\src\test\resources
+2023-02-16 17:52:23,050 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-02-16 17:52:25,947 [Worker-1: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: GFG_Maven:GFG_Maven:0.0.1-SNAPSHOT @ C:\Automation\Automation_all\GFG_Maven\pom.xml.
+2023-02-16 17:52:27,025 [Worker-1: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: dataDriven:excelDataProvided:0.0.1-SNAPSHOT @ C:\Automation\Automation_all\excelDataProvided\pom.xml.
+2023-02-16 17:52:27,208 [Worker-1: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: dataDriven:excelDataProvider1:0.0.1-SNAPSHOT @ C:\Automation\Automation_all\excelDataProvider1\pom.xml.
+2023-02-16 17:52:30,013 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-02-16 17:52:30,040 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-02-16 17:52:30,056 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-02-16 17:52:30,058 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Automation\Automation_all\GFG_Maven\src\test\resources
+2023-02-16 17:52:30,940 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-16 17:52:30,941 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Automation\Automation_all\excelDataProvided\src\main\resources
+2023-02-16 17:52:30,955 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-16 17:52:30,955 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Automation\Automation_all\excelDataProvided\src\test\resources
+2023-02-16 17:52:30,998 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-16 17:52:30,998 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Automation\Automation_all\excelDataProvider1\src\main\resources
+2023-02-16 17:52:31,013 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-16 17:52:31,013 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Automation\Automation_all\excelDataProvider1\src\test\resources
