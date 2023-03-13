@@ -53,13 +53,14 @@ public class liverLogin {
 		WebDriverManager.chromedriver().setup();
 		ChromeOptions options = new ChromeOptions();
 		options.addArguments("--use-fake-ui-for-media-stream=10");
+		options.addArguments("--remote-allow-origins=*");
+		System.setProperty("webdriver.http.factory", "jdk-http-client");
 		System.setProperty("webdriver.chrome.driver", "C:\\Users\\fdcar\\Downloads\\Automatio\\chromedriver_win32\\chromedriver.exe");
 		WebDriver driver = new ChromeDriver(options);
 		WebDriverWait w =new WebDriverWait(driver,Duration.ofSeconds(10));
 		
 		driver.manage().window().maximize();
 		driver.get(URL);
-		System.out.println("The " + URL + " is entered");
 		
 		//login button
 		WebElement loginButton = driver.findElement(By.className("login"));
@@ -85,7 +86,7 @@ public class liverLogin {
 		loginButton1.click();
 		System.out.println("The " + loginButton1Text + " button is clicked");
 		
-		Thread.sleep(3000);
+		Thread.sleep(2000);
 		Bonus("dailybonus", driver);
 		
 		driver.quit();
@@ -107,7 +108,7 @@ public class liverLogin {
 					claimBunos.click();
 					System.out.println("The " + claimBunosText + " button is clicked");
 					
-					Thread.sleep(5000);
+					Thread.sleep(3000);
 					
 					//get modal bonus
 					System.out.println("The daily login get modal bonus is displayed");

@@ -5,7 +5,7 @@
     <classes>
       <class name="dataDriven.excelDataProvided.liverLogin">
         <methods>
-          <include name="testCaseData" invocation-numbers="32"/>
+          <include name="testCaseData" invocation-numbers="18"/>
         </methods>
       </class> <!-- dataDriven.excelDataProvided.liverLogin -->
     </classes>
